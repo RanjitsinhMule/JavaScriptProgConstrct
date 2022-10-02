@@ -1,0 +1,9 @@
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+a=getRandomInt(7);
+b=getRandomInt(7);
+console.log(a);
+console.log(b);
+  sum=(a+b);
+  console.log(sum);
